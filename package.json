@@ -1,0 +1,25 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaqib29292/sudoku.git"
+  },
+  "author": "Aaqib Parvez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaqib29292/sudoku/issues"
+  },
+  "homepage": "https://github.com/aaqib29292/sudoku#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-sass": "^2.1.1"
+  }
+}

@@ -1,0 +1,50 @@
+body {
+  margin: 1vmin;
+  text-align: center;
+  #main{
+    margin: 0 auto;
+
+  #board {
+    display: inline-block;
+    .row2 {
+      margin: 3px 0;
+    }
+    .row {
+      display: inline-block;
+    }
+    .col {
+      display: inline-block;
+      border: 3px solid #95a5a6;
+    }
+    .col-each {
+      height: 10vmin;
+      width: 10vmin;
+      display: inline-block;
+      border-radius: 1px;
+      background-color: #ecf0f1;
+      input {
+        background-color: #ecf0f1;
+        width: 3vmin;
+        height: 6vmin;
+        padding: 1.5vmin 3vmin 1.5vmin 3vmin;
+        font-size: 5vmin;
+      }
+      input[type=number]::-webkit-inner-spin-button,
+      input[type=number]::-webkit-outer-spin-button {
+          -webkit-appearance: none;
+          -moz-appearance: none;
+          appearance: none;
+          // margin: 0;
+      }
+    }
+
+  }
+
+  #button {
+    display: inline-block;
+    position: absolute;
+    top: 41vmin;
+    margin-left: 14vmin;
+  }
+  }
+}

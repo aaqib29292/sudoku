@@ -1,0 +1,22 @@
+{
+  "name": "sudoku",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Aaqib Parvez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aaqib29292/sudoku",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
